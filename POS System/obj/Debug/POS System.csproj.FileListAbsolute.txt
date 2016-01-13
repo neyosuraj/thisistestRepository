@@ -1,0 +1,201 @@
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\POS System.exe.config
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\POS System.exe
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\POS System.pdb
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\BLLS.dll
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\DOA.dll
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\BLLS.pdb
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\bin\Debug\DOA.pdb
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS System.csprojResolveAssemblyReference.cache
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.Login.resources
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.Properties.Resources.resources
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS System.csproj.GenerateResource.Cache
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS System.exe
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS System.pdb
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.Purchase_Form.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.SellProduct.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.AddCategory.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.DamageProduct.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.ViewPurchaseItem.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.Order.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.Updateorder.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System\POS System\obj\Debug\POS_System.orderlist.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\POS System.exe.config
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\DOA.dll
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\POS System\POS System\bin\Debug\DOA.pdb
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS System.csprojResolveAssemblyReference.cache
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.AddCategory.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.DamageProduct.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.Login.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.Order.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.orderlist.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.Purchase_Form.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.SellProduct.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.Updateorder.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.ViewPurchaseItem.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS System.csproj.GenerateResource.Cache
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.edit_orders.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_product_add.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_dameged_products.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_sell_prodcuts.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_order.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_order_lists.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_update_orders.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_add_category.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_purchase_form.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.UserControl_view_purchases.resources
+C:\Users\SJNeyos\Desktop\POS System\POS System\obj\Debug\POS_System.second_user_interface.resources
+C:\Users\SJNeyos\Desktop\POS System\NewRepo\POS System\bin\Debug\POS System.exe.config
+C:\Users\SJNeyos\Desktop\POS System\NewRepo\POS System\obj\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\POS System\NewRepo\POS System\obj\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\POS System.exe.config
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\DOA.dll
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\bin\Debug\DOA.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS System.csprojResolveAssemblyReference.cache
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.AddCategory.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.DamageProduct.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.Login.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.edit_orders.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.Order.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.orderlist.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.Purchase_Form.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.second_user_interface.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.SellProduct.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.Updateorder.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_add_category.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_dameged_products.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_order.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_order_lists.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_product_add.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_purchase_form.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_sell_prodcuts.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_update_orders.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_view_purchases.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.ViewPurchaseItem.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS System.csproj.GenerateResource.Cache
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.edit_user.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.SingUp_Form.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.updateItem.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_view_damage.resources
+C:\Users\SJNeyos\Desktop\POS System suraj\POS System\obj\Debug\POS_System.UserControl_view_expiry.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\POS System.exe.config
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS System.exe
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS System.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\POS System.exe
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\POS System.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\BLLS.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\DOA.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\BLLS.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\DOA.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS System.csprojResolveAssemblyReference.cache
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.edit_user.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.AddCategory.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.DamageProduct.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Login.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.edit_orders.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Order.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.orderlist.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Purchase_Form.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.second_user_interface.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.SellProduct.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Updateorder.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.SingUp_Form.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.updateItem.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_add_category.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_dameged_products.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_order.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_order_lists.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_product_add.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_purchase_form.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_sell_prodcuts.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_view_damage.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_view_expiry.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.UserControl_view_purchases.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.ViewPurchaseItem.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS System.csproj.GenerateResource.Cache
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.DamageExpiry.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.SignUp.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.item.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.ViewStock.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Login.es-ES.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Login.es-PR.resources
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\es-ES\POS System.resources.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\es-PR\POS System.resources.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\es-ES\POS System.resources.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\es-PR\POS System.resources.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\SecureApp.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\SecureApp.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\pos.mdf
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\bin\Debug\pos_log.ldf
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\POS System\obj\Debug\POS_System.Viewrestaurant.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\POS System.exe.config
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS System.csprojResolveAssemblyReference.cache
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.DamageExpiry.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.edit_user.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.item.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.AddCategory.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.DamageProduct.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Login.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.edit_orders.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Order.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.orderlist.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Purchase_Form.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.second_user_interface.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.SellProduct.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Updateorder.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.SignUp.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.SingUp_Form.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.updateItem.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_add_category.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_dameged_products.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_order.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_order_lists.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_product_add.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_purchase_form.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_sell_prodcuts.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_view_damage.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_view_expiry.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.UserControl_view_purchases.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.ViewPurchaseItem.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Viewrestaurant.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.ViewStock.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Login.es-ES.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.Login.es-PR.resources
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS System.csproj.GenerateResource.Cache
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\pos.mdf
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\pos_log.ldf
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\POS System.exe
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\POS System.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\es-ES\POS System.resources.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\es-PR\POS System.resources.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\DOA.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\SecureApp.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\DOA.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\bin\Debug\SecureApp.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\es-ES\POS System.resources.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\es-PR\POS System.resources.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\POS System\obj\Debug\POS_System.softwareversion.resources

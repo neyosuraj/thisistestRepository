@@ -1,0 +1,35 @@
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\bin\Debug\BLLS.dll
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\bin\Debug\BLLS.pdb
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\bin\Debug\DOA.dll
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\bin\Debug\DOA.pdb
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\obj\Debug\BLLS.csprojResolveAssemblyReference.cache
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\obj\Debug\BLLS.dll
+c:\users\utshab luitel\documents\visual studio 2012\Projects\POS System\BLLS\obj\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\POS System\BLLS\bin\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\POS System\BLLS\bin\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\POS System\BLLS\bin\Debug\DOA.dll
+C:\Users\SJNeyos\Desktop\POS System\BLLS\bin\Debug\DOA.pdb
+C:\Users\SJNeyos\Desktop\POS System\BLLS\obj\Debug\BLLS.csprojResolveAssemblyReference.cache
+C:\Users\SJNeyos\Desktop\POS System\BLLS\obj\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\POS System\BLLS\obj\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\bin\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\bin\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\bin\Debug\DOA.dll
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\bin\Debug\DOA.pdb
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\obj\Debug\BLLS.csprojResolveAssemblyReference.cache
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\obj\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\POS System suraj\BLLS\obj\Debug\BLLS.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\bin\Debug\BLLS.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\bin\Debug\BLLS.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\bin\Debug\DOA.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\bin\Debug\DOA.pdb
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\obj\Debug\BLLS.csprojResolveAssemblyReference.cache
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\obj\Debug\BLLS.dll
+C:\Users\Utshab Luitel\Documents\Visual Studio 2012\Projects\POS System 2\BLLS\obj\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\bin\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\bin\Debug\BLLS.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\bin\Debug\DOA.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\bin\Debug\DOA.pdb
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\obj\Debug\BLLS.csprojResolveAssemblyReference.cache
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\obj\Debug\BLLS.dll
+C:\Users\SJNeyos\Desktop\final tested for documentation\POS System 2\BLLS\obj\Debug\BLLS.pdb

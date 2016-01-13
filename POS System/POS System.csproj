@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7E842C1-B6F0-4B52-BF87-D30B9184C546}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>POS_System</RootNamespace>
+    <AssemblyName>POS System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="softwareversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="softwareversion.Designer.cs">
+      <DependentUpon>softwareversion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DamageExpiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DamageExpiry.Designer.cs">
+      <DependentUpon>DamageExpiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_user.Designer.cs">
+      <DependentUpon>edit_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Item.Designer.cs">
+      <DependentUpon>Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\AddCategory.Designer.cs">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\DamageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\DamageProduct.Designer.cs">
+      <DependentUpon>DamageProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit_orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_orders.Designer.cs">
+      <DependentUpon>edit_orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\Order.Designer.cs">
+      <DependentUpon>Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\orderlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\orderlist.Designer.cs">
+      <DependentUpon>orderlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\ProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\ProductAdd.Designer.cs">
+      <DependentUpon>ProductAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="old files\Purchase Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\Purchase Form.Designer.cs">
+      <DependentUpon>Purchase Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="second_user_interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="second_user_interface.Designer.cs">
+      <DependentUpon>second_user_interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\SellProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\SellProduct.Designer.cs">
+      <DependentUpon>SellProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\Updateorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\Updateorder.Designer.cs">
+      <DependentUpon>Updateorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SingUp_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingUp_Form.Designer.cs">
+      <DependentUpon>SingUp_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateItem.Designer.cs">
+      <DependentUpon>updateItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_add_category.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_add_category.Designer.cs">
+      <DependentUpon>UserControl_add_category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_dameged_products.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_dameged_products.Designer.cs">
+      <DependentUpon>UserControl_dameged_products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_order.Designer.cs">
+      <DependentUpon>UserControl_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_order_lists.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_order_lists.Designer.cs">
+      <DependentUpon>UserControl_order_lists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_product_add.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_product_add.Designer.cs">
+      <DependentUpon>UserControl_product_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_purchase_form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_purchase_form.Designer.cs">
+      <DependentUpon>UserControl_purchase_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_sell_prodcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_sell_prodcuts.Designer.cs">
+      <DependentUpon>UserControl_sell_prodcuts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_view_damage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_view_damage.Designer.cs">
+      <DependentUpon>UserControl_view_damage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_view_expiry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_view_expiry.Designer.cs">
+      <DependentUpon>UserControl_view_expiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_view_purchases.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_view_purchases.Designer.cs">
+      <DependentUpon>UserControl_view_purchases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="old files\ViewPurchaseItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="old files\ViewPurchaseItem.Designer.cs">
+      <DependentUpon>ViewPurchaseItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viewrestaurant.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Viewrestaurant.Designer.cs">
+      <DependentUpon>Viewrestaurant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewStock.Designer.cs">
+      <DependentUpon>ViewStock.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="softwareversion.resx">
+      <DependentUpon>softwareversion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DamageExpiry.resx">
+      <DependentUpon>DamageExpiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_user.resx">
+      <DependentUpon>edit_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.es-ES.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.es-PR.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item.resx">
+      <DependentUpon>Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\AddCategory.resx">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\DamageProduct.resx">
+      <DependentUpon>DamageProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_orders.resx">
+      <DependentUpon>edit_orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\Order.resx">
+      <DependentUpon>Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\orderlist.resx">
+      <DependentUpon>orderlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\ProductAdd.resx">
+      <DependentUpon>ProductAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="old files\Purchase Form.resx">
+      <DependentUpon>Purchase Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="second_user_interface.resx">
+      <DependentUpon>second_user_interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\SellProduct.resx">
+      <DependentUpon>SellProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\Updateorder.resx">
+      <DependentUpon>Updateorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SingUp_Form.resx">
+      <DependentUpon>SingUp_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateItem.resx">
+      <DependentUpon>updateItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_add_category.resx">
+      <DependentUpon>UserControl_add_category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_dameged_products.resx">
+      <DependentUpon>UserControl_dameged_products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_order.resx">
+      <DependentUpon>UserControl_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_order_lists.resx">
+      <DependentUpon>UserControl_order_lists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_product_add.resx">
+      <DependentUpon>UserControl_product_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_purchase_form.resx">
+      <DependentUpon>UserControl_purchase_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_sell_prodcuts.resx">
+      <DependentUpon>UserControl_sell_prodcuts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_view_damage.resx">
+      <DependentUpon>UserControl_view_damage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_view_expiry.resx">
+      <DependentUpon>UserControl_view_expiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_view_purchases.resx">
+      <DependentUpon>UserControl_view_purchases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="old files\ViewPurchaseItem.resx">
+      <DependentUpon>ViewPurchaseItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viewrestaurant.resx">
+      <DependentUpon>Viewrestaurant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewStock.resx">
+      <DependentUpon>ViewStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLLS\BLLS.csproj">
+      <Project>{96718e6e-2051-4541-bb94-09c8d19ad758}</Project>
+      <Name>BLLS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DOA\DOA.csproj">
+      <Project>{42a8d3e1-03fa-4554-b204-3cc3fa98c945}</Project>
+      <Name>DOA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\secureapp\secureapp.csproj">
+      <Project>{dcc23fe5-a1fb-421a-8d1b-4c596fffe054}</Project>
+      <Name>secureapp</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pos.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="pos_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>pos.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\backgrounds - Copy.jpg" />
+    <None Include="Resources\backgrounds.jpg" />
+    <None Include="Resources\blue_wave-1680x1050.jpg" />
+    <None Include="Resources\refresh-v2-400x300.png" />
+    <None Include="Resources\icon-ios7-arrow-right-128.png" />
+    <None Include="Resources\128.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
